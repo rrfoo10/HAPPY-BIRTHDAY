@@ -189,3 +189,10 @@ canvas{
     transform:scale(1.08);
 
 }
+
+.card-image {
+    width: 300px;
+    border-radius: 45px;
+    display: block;
+    margin: 45px auto;
+}
